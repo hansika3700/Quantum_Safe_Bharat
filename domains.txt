@@ -1,0 +1,78 @@
+# Quantum Safe Bharat - starter list of public Indian portals
+# One domain per line. Lines starting with # are ignored. Add or remove freely.
+
+# --- Central government & digital public infrastructure ---
+india.gov.in
+mygov.in
+uidai.gov.in
+myaadhaar.uidai.gov.in
+digilocker.gov.in
+umang.gov.in
+incometax.gov.in
+gst.gov.in
+epfindia.gov.in
+passportindia.gov.in
+parivahan.gov.in
+pmkisan.gov.in
+scholarships.gov.in
+gem.gov.in
+mca.gov.in
+eci.gov.in
+meity.gov.in
+cert-in.org.in
+nic.in
+pfms.nic.in
+ncs.gov.in
+
+# --- Health ---
+mohfw.gov.in
+abdm.gov.in
+esanjeevani.mohfw.gov.in
+pmjay.gov.in
+
+# --- Education ---
+education.gov.in
+ugc.gov.in
+aicte-india.org
+cbse.gov.in
+nta.ac.in
+dtu.ac.in
+
+# --- State portals (Northern region) ---
+delhi.gov.in
+haryana.gov.in
+punjab.gov.in
+himachal.nic.in
+uk.gov.in
+jk.gov.in
+
+# --- Regulators & financial infrastructure ---
+rbi.org.in
+sebi.gov.in
+npci.org.in
+licindia.in
+
+# --- Public-sector banks ---
+sbi.co.in
+onlinesbi.sbi
+pnbindia.in
+bankofbaroda.in
+canarabank.com
+unionbankofindia.co.in
+bankofindia.co.in
+indianbank.in
+centralbankofindia.co.in
+iob.in
+ucobank.com
+idbibank.in
+
+# --- Private banks ---
+hdfcbank.com
+icicibank.com
+axisbank.com
+kotak.com
+
+# --- Other public services ---
+irctc.co.in
+bsnl.co.in
+indiapost.gov.in
